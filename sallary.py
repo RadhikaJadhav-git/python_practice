@@ -1,0 +1,4 @@
+basic_sallary=50000
+bonas_amount=10000
+total_sallary_amount=basic_sallary+bonas_amount
+print(total_sallary_amount)
